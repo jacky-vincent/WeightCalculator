@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "name": "Weight Calculator",
+  "id": "weightcalculator",
+  "version": "1",
+  "author": "Jacky Vincent",
+  "description": "Calculates and displays the total weight of selected bodies based on volume and material density.",
+  "supportedOS": "windows|mac"
+}
